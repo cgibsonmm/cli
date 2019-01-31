@@ -1,5 +1,12 @@
-# terminal
+# Terminal
 Working with the MacOS Terminal.
+
+
+# Objectives
+*After this lesson, students will be able to:*
+- Undertsand what the MacOS Terminal is
+- Navigate MacOS using Terminal commands
+- Manipulate files and folder on their machine using Terminal commands
 
 
 # What is the Terminal?
