@@ -113,19 +113,19 @@ Below are some examples of using relative and absolute path for the same action:
 
 ### Examples
 
-`cp`
+Copy command - `cp`
 
 `cp hello.txt bye.txt`
 
 
-`mv`
+Move command - `mv`
 
 moves an existing specified file to a specified destination
 
 `mv bye.txt ga/`
 
 
-`man`
+Manual - `man`
 
 open a help manual for a particular command
 
