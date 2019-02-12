@@ -95,43 +95,28 @@ Below are some examples of using relative and absolute path for the same action:
 
 # More Commands
 
-`pwd`
+| Command   | Explanation                                                                     |
+|-----------|---------------------------------------------------------------------------------|
+| `pwd`     | shows in which directory you're currently in                                    |
+| `mkdir`   | creates a new directory                                                         |
+| `ls`      | lists the contents of the current directory you're in                           |
+| `cd`      | moves you to the specified directory                                            |
+| `cd ..`   | goes back one directory                                                         |
+| `cd ~`    | takes you to your home directory                                                |
+| `touch`   | creates an empty file                                                           |
+| `cp`      | copies an existing specified file and pastes it with whatever name you give it  |
+| `mv`      | moves an existing specified file to a specified destination                     |
+| `rm`      | deletes the specified file                                                      |
+| `man`     | open a help manual for a particular command                                     |
+| `history` | shows the history of the commands you've typed in your terminal                 |
+| `df -h`   | displays free disk space                                                        |
 
-shows in which directory you're currently in
-
-`mkdir`
-
-creates a new directory
-
-`ls`
-
-lists the contents of the current directory you're in
-
-`cd`
-
-moves you to the specified directory
-
-`cd ..`
-
-goes back one directory
-
-`cd ~`
-
-takes you to your home directory
-
-`touch`
-
-creates an empty file
+### Examples
 
 `cp`
 
-copies an existing specified file and pastes it with whatever name you give it
-
 `cp hello.txt bye.txt`
 
-`rm`
-
-deletes the specified file
 
 `mv`
 
@@ -139,19 +124,10 @@ moves an existing specified file to a specified destination
 
 `mv bye.txt ga/`
 
-`rm -rf`
-
-deletes an entire directory including all of its contents! Be careful with this one.
-
-`rm -rf ga`
 
 `man`
 
 open a help manual for a particular command
 
 `man ls`
-
-`history`
-
-shows the history of the commands you've typed in your terminal
 
