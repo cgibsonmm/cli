@@ -107,6 +107,7 @@ Below are some examples of using relative and absolute path for the same action:
 | `cp`      | copies an existing specified file and pastes it with whatever name you give it  |
 | `mv`      | moves an existing specified file to a specified destination                     |
 | `rm`      | deletes the specified file                                                      |
+| `rm -r`   | deletes the specified directory and all of its contents                          |
 | `man`     | open a help manual for a particular command                                     |
 | `history` | shows the history of the commands you've typed in your terminal                 |
 | `df -h`   | displays free disk space                                                        |
