@@ -110,7 +110,9 @@ Below are some examples of using relative and absolute path for the same action:
 | `rm -r`   | deletes the specified directory and all of its contents                         |
 | `man`     | open a help manual for a particular command                                     |
 | `history` | shows the history of the commands you've typed in your terminal                 |
+| `ctrl + r`| search through history of your commands (press enter to execute it)             |
 | `df -h`   | displays free disk space                                                        |
+
 
 *Note: If you are using Zsh, you can leave out the `cd` entirely; the directly name itself will move you into it.  
 
