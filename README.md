@@ -105,7 +105,8 @@ Below are some examples of using relative and absolute path for the same action:
 | `cd ~`    | takes you to your home directory                                                |
 | `touch`   | creates an empty file                                                           |
 | `cp`      | copies an existing specified file and pastes it with whatever name you give it  |
-| `mv`      | moves an existing specified file to a specified destination                     |
+| `mv old/path new/path`      | moves an existing specified file to a specified destination   |
+| `mv path/filename path/newname` | if paths are the same with a differeent file name, the file's name will be changed                   |
 | `rm`      | deletes the specified file                                                      |
 | `rm -r`   | deletes the specified directory and all of its contents                         |
 | `man`     | open a help manual for a particular command                                     |
