@@ -112,6 +112,7 @@ Below are some examples of using relative and absolute path for the same action:
 | `man`     | open a help manual for a particular command                                     |
 | `history` | shows the history of the commands you've typed in your terminal                 |
 | `ctrl + r`| search through history of your commands (press enter to execute it)             |
+| `ctrl + u`| delete command line                                                             |
 | `df -h`   | displays free disk space                                                        |
 
 
