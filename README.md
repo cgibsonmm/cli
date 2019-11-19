@@ -100,16 +100,23 @@ Below are some examples of using relative and absolute path for the same action:
 | `pwd`     | shows in which directory you're currently in                                    |
 | `mkdir`   | creates a new directory                                                         |
 | `ls`      | lists the contents of the current directory you're in                           |
-| `cd`      | moves you to the specified directory                                            |
+| `cd`      | moves you to the specified directory*                                           |
 | `cd ..`   | goes back one directory                                                         |
 | `cd ~`    | takes you to your home directory                                                |
 | `touch`   | creates an empty file                                                           |
 | `cp`      | copies an existing specified file and pastes it with whatever name you give it  |
-| `mv`      | moves an existing specified file to a specified destination                     |
+| `mv old/path new/path`      | moves an existing specified file to a specified destination   |
+| `mv path/filename path/newname` | if paths are the same with a differeent file name, the file's name will be changed                   |
 | `rm`      | deletes the specified file                                                      |
+| `rm -r`   | deletes the specified directory and all of its contents                         |
 | `man`     | open a help manual for a particular command                                     |
 | `history` | shows the history of the commands you've typed in your terminal                 |
+| `ctrl + r`| search through history of your commands (press enter to execute it)             |
+| `ctrl + u`| delete command line                                                             |
 | `df -h`   | displays free disk space                                                        |
+
+
+*Note: If you are using Zsh, you can leave out the `cd` entirely; the directly name itself will move you into it.  
 
 ### Examples
 
