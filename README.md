@@ -83,15 +83,15 @@ At any time, we can also use the absolute path, by adding a slash to the beginni
 Below are some examples of using relative and absolute path for the same action:
 
 
-1. My present location is `/Users/bruno/ga/lessons` and now I want to change directory to `/Users/bruno/ga`.
+1. My present location is `/Users/username/ga/lessons` and now I want to change directory to `/Users/username/ga`.
 
   * Using relative path: `cd ..`
-  * Using absolute path: `cd /Users/bruno/ga`
+  * Using absolute path: `cd /Users/username/ga`
 
-2. My present location is `/Users/bruno/ga/lessons` and I want to change the location to `/Users/bruno/ga/labs`
+2. My present location is `/Users/bruno/ga/lessons` and I want to change the location to `/Users/username/ga/labs`
 
   * Using relative path: `cd ../labs`
-  * Using absolute path: `cd /Users/bruno/ga/labs`
+  * Using absolute path: `cd /Users/username/ga/labs`
 
 # More Commands
 
