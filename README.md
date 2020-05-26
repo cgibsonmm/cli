@@ -88,7 +88,7 @@ Below are some examples of using relative and absolute path for the same action:
   * Using relative path: `cd ..`
   * Using absolute path: `cd /Users/username/ga`
 
-2. My present location is `/Users/bruno/ga/lessons` and I want to change the location to `/Users/username/ga/labs`
+2. My present location is `/Users/username/ga/lessons` and I want to change the location to `/Users/username/ga/labs`
 
   * Using relative path: `cd ../labs`
   * Using absolute path: `cd /Users/username/ga/labs`
