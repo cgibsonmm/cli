@@ -138,3 +138,4 @@ open a help manual for a particular command
 
 `man ls`
 
+#### **[CLI Cheatsheet](https://gist.git.generalassemb.ly/SteveVW/f593f58ffa57fc3c1eea5857e9152eab)**
